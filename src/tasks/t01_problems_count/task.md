@@ -1,7 +1,7 @@
 # t01. Юля, Никита и задачи
 
 **Уровень:** лёгкая · **Статус:** решена
-**Ссылка:** _добавить URL задачи_
+**Ссылка:** https://coderun.yandex.ru/selections/quickstart/problems/season-tasks/description
 
 ## Своими словами
 
