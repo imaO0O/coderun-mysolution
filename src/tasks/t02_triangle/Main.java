@@ -12,9 +12,9 @@ public class Main {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        long a = Integer.parseInt(reader.readLine().trim());
-        long b = Integer.parseInt(reader.readLine().trim());
-        long c = Integer.parseInt(reader.readLine().trim());
+        long a = Long.parseLong(reader.readLine().trim());
+        long b = Long.parseLong(reader.readLine().trim());
+        long c = Long.parseLong(reader.readLine().trim());
 
         if (a < b + c && b < a + c && c < a + b) {
             writer.write("YES");
