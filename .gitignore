@@ -1,0 +1,19 @@
+# --- Java ---
+*.class
+*.jar
+out/
+build/
+target/
+bin/
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# --- Прочее ---
+.claude/
+*.log
+Thumbs.db
+desktop.ini
